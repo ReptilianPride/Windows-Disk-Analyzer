@@ -1,0 +1,23 @@
+# Rust build output
+/target/
+/target
+
+# Cargo lock (keep for binaries, ignore for libraries if needed)
+# Cargo.lock
+
+# IDE files
+.vscode/
+.idea/
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Environment / local config (if you add any later)
+.env
