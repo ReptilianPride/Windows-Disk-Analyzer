@@ -1,10 +1,10 @@
-# Disk Analyzer
+# Disk/Storage Analyzer
 
 ---
 
 ## What is this?
 
-Disk Analyzer is a fast, lightweight terminal-based tool built to help you quickly identify what is taking up space on your Windows system.
+Disk/Storage Analyzer is a fast, lightweight, windows ONLY terminal-based tool built to help you quickly identify what is taking up space on your system.
 
 Unlike the default Windows file explorer, which can be slow and inefficient when analyzing large directories, this tool is designed for speed and clarity. It scans directories recursively and helps you pinpoint large files and folders so you can decide what to delete and free up space efficiently.
 
@@ -15,7 +15,7 @@ Note: This is only for windows.
 ## How to run
 
 Download the .exe file from releases
-Click [here](https://example.com) to go to releases page
+Click [here](https://github.com/ReptilianPride/Windows-Disk-Analyzer/releases/tag/V0.1) to go to releases page
 
 ### Option 1: Run via executable
 
@@ -43,6 +43,15 @@ This will start scanning the specified directory immediately.
 ---
 
 ![app screenshots](appscreenshot.png)
+
+---
+
+## How to build from source:
+#### Git clone this repo  
+Option1: Inside the project folder run `cargo build --release`.  
+   - The .exe would be in "./target/releases"  
+
+Option 2: To run the program without building you can run `cargo run -- [PATH]` or `cargo run`
 
 ---
 
