@@ -1,3 +1,5 @@
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://www.youtube.com/@reptilianpride)
+
 # Disk/Storage Analyzer
 
 ---
@@ -13,11 +15,12 @@ Note: This is only for windows.
 ---
 
 ## How to run
+[![Watch Tutorial](https://img.shields.io/badge/YouTube-Tutorial-red?logo=youtube)](https://www.youtube.com/watch?v=Qv7Mt9_y4rk)
 
 Download the .exe file from releases
 Click [here](https://github.com/ReptilianPride/Windows-Disk-Analyzer/releases/tag/V0.1) to go to releases page
 
-Video Tutorial: Click [here](https://www.youtube.com/watch?v=Qv7Mt9_y4rk)
+
 
 ### Option 1: Run via executable
 
